@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 <h1 align="center">
 AcadHomepage
