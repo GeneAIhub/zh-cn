@@ -100,7 +100,7 @@ redirect_from:
         <br>
         <strong>Teng Wang</strong>, Zhi Chao Ong, Shin Yee Khoo, Pei Yi Siow <strong>Tao Wang</strong>.
         <br>
-        <em> Measurement</em>, 2024 <a href="https://github.com/Shurun-Wang/GeneAIhub">[code]</a>
+        <em> Measurement</em>, 2024 <a href="https://github.com/GeneAIhub/GeneAIhub">[code]</a>
         <p></p>
         <p>提出了一种基于序列信息条件的生成模型 SeqInfo-SAWGAN-GP，用于在多变工况下提升合成时间序列数据的多样性，解决故障数据稀缺的问题。</p>
     </div>
