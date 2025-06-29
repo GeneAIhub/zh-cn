@@ -1,20 +1,20 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "简介"
+    url: "/zh-cn/#about-me"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
-    
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "工作经历"
+    url: "/zh-cn/#-gzjl"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "教育经历"
+    url: "/zh-cn/#-jyjl"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "论文专利"
+    url: "/zh-cn/#-lwzl"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "荣誉奖项"
+    url: "/zh-cn/#-ryjx"
+
+  - title: "重要消息"
+    url: "/zh-cn/#-zyxx"
 
